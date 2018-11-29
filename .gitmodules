@@ -1,0 +1,3 @@
+[submodule "rime/rime-bopomofo-symbols"]
+	path = rime/rime-bopomofo-symbols
+	url = git@github.com:dsh0416/rime-bopomofo-symbols.git
