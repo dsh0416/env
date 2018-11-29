@@ -1,3 +1,6 @@
 [submodule "rime/rime-bopomofo-symbols"]
 	path = rime/rime-bopomofo-symbols
 	url = git@github.com:dsh0416/rime-bopomofo-symbols.git
+[submodule "oh-my-zsh/pure"]
+	path = oh-my-zsh/pure
+	url = git@github.com:sindresorhus/pure.git

@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Sarasa Mono SC",
+  "editor.fontSize": 14,
+  "files.insertFinalNewline": true,
+  "editor.renderWhitespace": "boundary",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "One Monokai",
+  "workbench.iconTheme": "vscode-great-icons",
+  "window.zoomLevel": 0,
+  "rust.rustup": {
+      "toolchain": "nightly-x86_64-apple-darwin",
+      "nightlyToolchain": "nightly-x86_64-apple-darwin"
+  },
+  "rust.mode": "rls",
+  "rust.rls": {
+      "useRustfmt": true
+  }
+}
